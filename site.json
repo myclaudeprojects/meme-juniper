@@ -1,0 +1,45 @@
+{
+  "ticker": "JUNIPER",
+  "ticker_lower": "juniper",
+  "name": "Juniper",
+  "character": {
+    "name": "Juniper",
+    "one_liner": "Clever, a little smug, always three steps ahead.",
+    "visual": "Bright orange fox kit with a white face, a tuft of fur on top, raised eyebrows, and a sly delighted grin"
+  },
+  "tagline": "Already three steps ahead. Try to keep up.",
+  "blurb": "Juniper figured out the plan before you finished explaining it, and is very pleased about that. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/juniper.webp",
+  "palette": {
+    "primary": "#ff7eb6",
+    "secondary": "#a8e0ff",
+    "accent": "#ffe566",
+    "bg": "#fff5fa"
+  },
+  "design": {
+    "seed": "d4fc6c3759a9695e",
+    "palette_family": "candy",
+    "palette_source": "generated",
+    "layout": "centered",
+    "layout_source": "generated",
+    "layout_label": "Centered stack \u2014 mascot above copy in one rounded card",
+    "font_pair": "rounded_mplus",
+    "font_source": "generated",
+    "font_display": "M PLUS Rounded 1c",
+    "font_body": "Nunito",
+    "font_google": "family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Nunito:wght@400;600;700;800"
+  },
+  "request_id": "juniper-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Juniper solved the riddle before the riddle was finished. Juniper found the shortcut, the hidden snack stash, and the way back home \u2014 then waited, grinning, for everyone else to catch up.\n\nThat little tuft on top stands up whenever an idea lands, which is often. The eyebrows do the rest of the talking.\n\nA bit smug? Sure. But Juniper always saves you a seat at the front. Clever friends are the best friends. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
